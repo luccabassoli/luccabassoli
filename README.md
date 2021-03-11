@@ -2,7 +2,7 @@ Olá a todos! 👋
 
 - Sou um desenvolvedor front-end voltado para o HTML, CSS E JS, caso precise de algum front-end é so entrar em contato.
 
-DISCORD: ManoBassoli | SeasonCloud#8330
+DISCORD: ManoBassoli#8330
 
 WEBSITE: https://bassolicodes.com
 
