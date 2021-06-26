@@ -3,12 +3,6 @@ Olá a todos! 👋
 - Sou um desenvolvedor front-end voltado para o HTML, CSS E JS, caso precise de algum front-end é so entrar em contato.
 
 WEBSITE: https://bassolicodes.com.br
-
-<div>
-  <a href="https://github.com/BassoliCodes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BassoliCodes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BassoliCodes&layout=compact&langs_count=16&theme=dracula"/>
-</div>
   
 <div style="display: inline_block;"><br>
   <img align="center" alt="BassoliCodes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,5 +21,3 @@ WEBSITE: https://bassolicodes.com.br
   <string>Lucca Bassoli#3199</string>
 </details> 
 <br/>
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
