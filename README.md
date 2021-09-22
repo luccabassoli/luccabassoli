@@ -1,6 +1,6 @@
 Olá a todos! 👋
 
-- Sou um desenvolvedor front-end voltado para o HTML, CSS E JS, caso precise de algum front-end é so entrar em contato.
+- Sou um desenvolvedor Full Stack caso precise de algum projeto é so entrar em contato.
 
 WEBSITE: https://bassolicodes.com.br
   
