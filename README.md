@@ -1,6 +1,6 @@
-  <div class="text-center">
-    <h3>BASSOLI CODES</h3>
-    <p>asdasdasdasdasdasdasdasdasdasd</p>
+<div class="text-center">
+    <h3>BASSOLI CODES</h3><br/>
+    asdasdasdasdasdasdasdasdasdasd
 </div>
   
   ### :clipboard: Technologies:<br/>
