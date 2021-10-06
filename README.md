@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I'm a full stack developer!
-- 🌱 I’m currently learning with help from [docs.github.com](https://docs.github.com/)
 - 💼 Founder of [SeasonCloud](https://seasoncloud.com.br) company
   
 ### 📌 Programming Languages<br/>
