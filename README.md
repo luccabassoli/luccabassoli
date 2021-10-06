@@ -2,9 +2,9 @@
 
 - 🔭 I'm a full stack developer!
 - 🌱 I’m currently learning with help from [docs.github.com](https://docs.github.com/)
-- 💬 Founder of [SeasonCloud](https://seasoncloud.com.br) company
+- 💼 Founder of [SeasonCloud](https://seasoncloud.com.br) company
   
-### :clipboard: Technologies:<br/>
+### 📌 Technologies:<br/>
   
  ![JavaScript](https://img.shields.io/badge/JavaScript-ffbf00?style=for-the-badge&logo=javascript&logoColor=white)
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
