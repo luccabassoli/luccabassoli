@@ -1,6 +1,5 @@
   <div class="text-center">
     <h3>BASSOLI CODES</h3>
-    <br/>
     <p>asdasdasdasdasdasdasdasdasdasd</p>
 </div>
   
