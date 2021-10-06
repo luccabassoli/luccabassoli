@@ -1,8 +1,3 @@
-<div class="text-center">
-    <h3>BASSOLI CODES</h3><br/>
-    asdasdasdasdasdasdasdasdasdasd
-</div>
-  
   ### :clipboard: Technologies:<br/>
   
   ![JavaScript](https://img.shields.io/badge/JavaScript-ffbf00?style=for-the-badge&logo=javascript&logoColor=white)
