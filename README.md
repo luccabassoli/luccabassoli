@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm a full stack developer!
-- 💼 Founder of [SeasonCloud](https://seasoncloud.com.br) company
+- 💼 Founder of [SeasonCloud](https://seasoncloud.com.br) company.
   
 ### 📌 Programming Languages<br/>
   
