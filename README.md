@@ -2,6 +2,7 @@
 
 - 🔭 I'm a full stack developer!
 - 💼 Founder of [SeasonCloud](https://seasoncloud.com.br) and [Pay2Ply](https://pay2ply.com) companies.
+- 🤪 I don't really like working with frontend, my area is backend!
   
 ### 📌 Programming Languages<br/>
   
