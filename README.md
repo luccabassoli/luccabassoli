@@ -3,7 +3,7 @@
 - 🔭 I'm a full stack developer!
 - 💼 Founder of <b>[SeasonCloud](https://seasoncloud.com.br)</b> and <b>[Pay2Ply](https://pay2ply.com)</b> companies.
 - 🤪 I don't really like working with frontend, my area is backend!
-- ✨ Trabalhando como desenvolvedor na empresa <b>[PRTE](https://prte.com.br)</b>!
+- ✨ Working as a developer in the company <b>[PRTE](https://prte.com.br)</b>!
   
 ### 📌 Programming Languages<br/>
   
