@@ -44,6 +44,6 @@
  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
  ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-### 😶‍🌫️ test<br/>
+### 😶‍🌫️ Call me on Discord!<br/>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/655185655009378336)](https://discord.com/users/655185655009378336)
+ [![Discord Presence](https://lanyard.cnrad.dev/api/655185655009378336)](https://discord.com/users/655185655009378336)
