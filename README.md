@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I'm a **backend** developer!
-- 💼 Founder of <b>[SeasonCloud](https://seasoncloud.com.br)</b> and <b>[Pay2Ply](https://pay2ply.com)</b> companies.
+- 💼 Founder of <b>[SeasonCloud](https://seasoncloud.com.br)</b> company.
 - 🤪 I don't really like working with frontend, my area is backend!
-- ✨ Working as a developer in the company <b>[PRTE](https://prte.com.br)</b>!
   
 ### 📌 Programming Languages<br/>
   
